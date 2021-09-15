@@ -45,8 +45,10 @@ Az első műtét amit automatán megoldottak az a csontfúrás volt.
 - `CAS` computer assisted surgery
 
 
-
-
+## EA-GY2
+| | |
+| ------------- |:-------------:| 
+|![kuka orvosi robot](https://raw.githubusercontent.com/gabboraron/szerviz_robotok-orvosi_robotika/main/IMG_20210915_115429.jpg) | ![da vinci robotkar](https://github.com/gabboraron/szerviz_robotok-orvosi_robotika/blob/main/IMG_20210915_120840.jpg)|
 
 
 
