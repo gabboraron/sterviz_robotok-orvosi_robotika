@@ -129,6 +129,13 @@ Lemodellezzük matematikailag egy olyan szintre ahol nem érdekel minket, hogy f
 > 
 > **PID controller** egy lineáris szabályozó, a hibához arányosan, a hiba integráljával arányosan, és a hiba deriváltjával is arányso jelet ad. 
 
+## EA-GY4
+- 95-ben alakult a cég ami létrehozta a davincit
+- 98-ban volt az első emberes műtét davincivel
+
+Az erő erősségét vissza tudjuk adni a vezérlésnek a motor áramfelvételéből tudjuk kiszámolni
+
+A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan nem mozdul, ezzel a 6 szabadsági fokból 4 marad meg, de ez rögzíti a bemeneti pontot a testen, így nem lehet véletlenül onnnan elmozdullni.
 
 
 
