@@ -137,11 +137,48 @@ Az erő erősségét vissza tudjuk adni a vezérlésnek a motor áramfelvételé
 
 A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan nem mozdul, ezzel a 6 szabadsági fokból 4 marad meg, de ez rögzíti a bemeneti pontot a testen, így nem lehet véletlenül onnnan elmozdullni.
 
+## EA-GY5
+- a **modell:** sok képen bejelöljük, hogy hol a beteg rész, stb és az alapján javasolunk egy eljárást a beteghez
+- a **terv:** az, hogy távolítjuk el a tumort, hogy vágjuk ki, stb.
 
+> **endoszkópia**
+> 
+> - minimál invazív sebészet kategóriája, amikor csak kamerát dugunk be és az eszközt ami elvégzi a feladatot.
+> - da vincinél a sebész állítja be a kamerát is, míg a hagyományosnál a rezidens tartja
 
+### PET 
+> https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#pet
+> 
+> gamma fotonokkal alkotunk képet
 
+### ultrahang
+> piezoelektromos kristály képes a kibocsájtott és visszaverődő hangot is érzékelni, és ezt tartja a szenzorfej
+> 
+> - olcsó
+> - vals idejű
+> - mozgást lehet vele detektálni
+> - *nagy frekvencián éget!*
+> - 20 kHz
 
+### röntgen
+> https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#r%C3%B6ntgen-rtg
+> 
+> https://www.youtube.com/watch?v=hTz_rGP4v9Y
+>
+> https://www.nibib.nih.gov/science-education/science-topics/x-rays
 
+- minnél kisebb a hullámhossza az elektromágneses hullámnak annál veszélyesebb, *ionizálóbb*
+- a röntgensugárzás ionizálós sugárzás
+- ahogy a vákumba becsapódik a fény úgy keletkezik a röntgensugárzás
 
+### CT
+> https://www.youtube.com/watch?v=l9swbAtRRbg
+> 
+> [Diagnosztikai célú orvosi képalkotás - CT](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#computer-tomogr%C3%A1fia-ct)
 
+### MRI
+> - [YT How Does an MRI Scan Work?](https://www.youtube.com/watch?v=1CGzk-nV06g)
+> - [Diagnosztikai célú orvosi képalkotás - MRI](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#mri) 
+>  
+> - a proton kölcsönhatását nézi a mágneses térben
 
