@@ -182,3 +182,27 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 >  
 > - a proton kölcsönhatását nézi a mágneses térben
 
+## EA-GY6
+> Az FDA szabályozza az orvostechnikai eszközök forgalamazását. Minden ami orvosi értékeket ad ki, ilyenkor a gyártó felelősségre vonható. Szintén kérhető olyan jelzés ami indokolja, hogy ez nem orvostechinkai eszköz! 
+> 
+> Nem öszekeverendő a china exporttal:
+> ![ce vs ce](https://siloscordoba.com/wp-content/uploads/2013/07/CE-and-China-Export-1.jpg)
+> ![FDA ce engedélyeztetés](https://images.slideplayer.com/17/5304510/slides/slide_3.jpg)
+> 
+> **Szabványok:**
+> - ISO/TC 184/SC 2/JWG 9
+> - ISO 1298 ~ ipari robotok szabványa: ember robot közelébe működés közben nem mehet.
+> - FDA 
+> 
+> **tréning:**
+> - 5 napos tréning
+> - mostmár laporoszkópiában nem jártas orvosokat is betanítanak
+> - gyors növekedésű tanulási görbe jellemző a davinci betanítására
+>  
+> [Elizabeth Holes story](Elizabeth Holmes)
+
+### Intra operative Tracking
+1. képen megnézzük hogy hol a tumor
+2. a kép koordináta rendszerében megmondjuk, hogy hol a tumor.
+
+
