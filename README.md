@@ -149,7 +149,7 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 ### PET 
 > https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#pet
 > 
-> gamma fotonokkal alkotunk képet
+> gamma fotonokkal alkotunk képet, miközben bomlik aközben próbáljuk a bomlást követni szenzorokkal
 
 ### ultrahang
 > piezoelektromos kristály képes a kibocsájtott és visszaverődő hangot is érzékelni, és ezt tartja a szenzorfej
@@ -202,7 +202,32 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 > [Elizabeth Holes story](Elizabeth Holmes)
 
 ### Intra operative Tracking
+> operáció alatti eszközök követése - pozíció és meghatározás
+> 
+> ![intra opertive tracking](https://www.researchgate.net/profile/Gregory-Bootsma/publication/253612637/figure/fig1/AS:298196090802177@1448106896489/a-Photograph-of-a-real-time-tracking-system-NDI-Polaris-integrated-with-the.png)
+
+> **optikai alapaú követés**nél vagy olyant használok ami visszaveri a fényt, vagy megjelölöm az eszközeimet. A Los-hoz látni kell az eszközöket, ezért minimal invazív sebészetnél ez nem játszik.
+> 
+> **elektromágneses követés**nél van egy tekercsel mérjük a különbséget, amit a mozgás okoz, ezt egy elektormágneses mezővel tudjuk követni. Erre Daviniél nem feltétlen van szükség, mert vannak kinematikai adataim.
+> 
+> **gyneacology:** célzott nőgyógyászati beavatkozás, amikor egy tűvel próbáljuk bejuttatni a rákos szövethez az anyagot.
+>   **robogyn:** ha mindne információ adott akkor akár robottal is elvégezhető ugyanez
+
+***Mindig azt kell nézni ami a betegnek is és orvosnak is jó egyszerre, hogy, hiába jó az eljárás, de ha több energia az orvosnak akkor mindne hiába.***
+
+
 1. képen megnézzük hogy hol a tumor
 2. a kép koordináta rendszerében megmondjuk, hogy hol a tumor.
 
 
+
+> #### zh kérdések:
+> 
+> teszt alapú
+> 
+> - mi a minimál invazív sebészet
+> - mikor és hol született a da-vinci ötletete
+> - orvosi képalkotás - ultraang, röntgen, ct, mri, pet
+> - Milyen operáció amire először robotot használtak? - csontfúrás
+> - mi a számítógéppel támogatot sebészet elemei/lépései?
+> - mi a kép által vezett sebészet?
