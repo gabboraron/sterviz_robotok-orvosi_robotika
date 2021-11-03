@@ -219,8 +219,6 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 1. képen megnézzük hogy hol a tumor
 2. a kép koordináta rendszerében megmondjuk, hogy hol a tumor.
 
-
-
 > #### zh kérdések:
 > 
 > teszt alapú
@@ -231,3 +229,11 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 > - Milyen operáció amire először robotot használtak? - csontfúrás
 > - mi a számítógéppel támogatot sebészet elemei/lépései?
 > - mi a kép által vezett sebészet?
+
+
+## EA-GY7
+### Kiterjesztett valóság sebész szemszögből
+glasgow kóma skála: https://www.glasgowcomascale.org/
+Móga Kristóf
+
+
