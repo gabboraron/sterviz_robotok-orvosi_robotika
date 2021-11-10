@@ -236,4 +236,34 @@ A karokat a műtét elején beállítjuk egy pontba és a műtét során onnan n
 glasgow kóma skála: https://www.glasgowcomascale.org/
 Móga Kristóf
 
+## EA-GY8
+![](https://thejns.org/focus/view/journals/neurosurg-focus/27/3/0270009f1.jpg)
+
+- trokárok 
+
+**problémák:** 
+- nincs erővisszacsatolás da vincinél
+
+**orvosok képességei:**
+- eszköz kezelés
+- endoscope
+- sebesség
+- pontosság
+- csapatmunka
+- döntéshozási képesség
+- fősebész vezető szerepe
+- stressz tűrés
+- előkészületek minősége
+
+[da Vinci Robot Stitches a Grape Back Together](https://www.youtube.com/watch?v=0XdC1HUp-rU)
+
+kulcslyuksebészet
+
+### FLS
+> Sebész értékelő objektív pontrendszer, amit a laporoszkópiás seészek képzésében használnak, így egységesítve a számonkérést is és a tananyagot is.
+
+### FRS
+> https://frsurgery.org hasonló mint az FLS, csak robot sebészek számára.
+> 
+> ![manual vs automated skill assessment surgical](https://www.auajournals.org/cms/asset/50f8e4bc-c9fc-4c5d-8751-ded7cc538a42/j.juro.2018.06.078f2.jpg)
 
