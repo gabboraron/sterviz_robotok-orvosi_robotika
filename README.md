@@ -267,3 +267,51 @@ kulcslyuksebészet
 > 
 > ![manual vs automated skill assessment surgical](https://www.auajournals.org/cms/asset/50f8e4bc-c9fc-4c5d-8751-ded7cc538a42/j.juro.2018.06.078f2.jpg)
 
+## EA-GY9
+### Mesterséges neurális hálózatok
+![conventional computer vs neurocomputer](https://www.researchgate.net/publication/317752979/figure/tbl1/AS:668911594917889@1536492360299/Comparison-of-the-conventional-computer-and-neurocomputer.png)
+
+- minden neuronhoz 10^4 kapcsolat tartozik
+- 10^11 neuron van
+- lassú kapcsolat 10^-3
+
+A kapcsolatok nem állandóak. A tanulás nem a kapcsolatok építéséről, hanem lebontásáról szól, ez azlvás közen történik leginkább.
+
+Az agyban az erősség a frekvenciában kódolódik, tehát ha valamit nagoyn sűrűn juttatunk át az idegsejten akkor az az erős tudás
+
+**Mikor használjun AANt?** csak ha nem létezik rá maetmatikai megoldás
+
+`w = w + n(d(x) - y(x))x`
+
+Gradiens ereszkedés módszer: parciális deriváltakat használunk, de ez csak a lokális minimum megtalálását garantálja, csak sigmoid függvényt deriválhatunk, tehát a beemenet is sigmoid.
+
+Backpropagation
+
+rekurrens: hogy az egyik neuron kimenete a másik bemenete
+
+CNN: celluláris háló
+
+### Hogy döntsünk topológiáról:
+- bementek száma
+- kimenetek száma
+- mi a feladat
+- hány rejtett réteg van
+
+### convulotional neural network:
+- még mindig csak a súlyokat változtatjuk
+- a legtöbb esetben továbbra is gradiens ereszkedéssel adom meg
+- konvolúció: van egy képem, egy kis ablakkal végigiterálok rajta *(klasszikus kpfeldolgozásnál ez acsúszóablakos megoldás)*
+- így egy réteggel kereshetünk egy elemet a képen, a másikkkal egy másikat, stb.
+
+### RCNN: region based CNN
+megmondjuk, hol van a képen amit találunk.
+
+![](https://media.nature.com/lw800/magazine-assets/d41586-019-03013-5/d41586-019-03013-5_17247076.png)
+
+
+
+
+
+
+
+
