@@ -308,9 +308,60 @@ megmondjuk, hol van a képen amit találunk.
 
 ![](https://media.nature.com/lw800/magazine-assets/d41586-019-03013-5/d41586-019-03013-5_17247076.png)
 
+# A jövő útjai
+## újdonságok a minimál invazív sebészetben
+- endoluminális sebészet ![endoluminális sebészet](https://i2.wp.com/abdominalkey.com/wp-content/uploads/2017/07/A340956_1_En_23_Fig2_HTML.gif?zoom=1.25&w=960)
+- ultrahang vezérelt robotok: https://koellner-medical.com/
+- MRI kompatibilis robotok
+- szem műtétre alkalmas tű szerű robot
 
+**Sűrgősségi esetet a robot nem tud ellátni!**
 
+![](https://4.bp.blogspot.com/-iNgjTRV4FXg/XMp8YtFZTjI/AAAAAAACADg/_S5AEG1k4HMq15nr3oC9QEtHfuLp2Z7dgCLcBGAs/s1600/LoA%2Bfigure%2Bv2.3.png)
 
+> ## vállakozási tanácsok
+> - hanyadikként lépünk piacra
+> - mennyi idő alatt térül meg
+> - mennyi pénz kell hozzá
+> - mikor kell kiszállni
+> - meddig érdemes ezt csinálni
+> - a felhasználók jól értékelik-e
+
+- döntéstámogatás
+- intelligens eszközök
+- hozzáadott érték
+- nagyobb pontosság
+
+Távsebészetnél ha űrben szeretnénk használni akkor könnyű legyen az eszköz, hogy könnyen odajuttatható legyen
+
+100-500 ms között késleltetésnek nevezzük, az alatt nem érezhető emberként
+
+**Lindbergh operáció**: 2001 szept 7 New York - Strassbourg egy órás epehólyageltávolítás 150 ms késleltetés
+
+**kooperatív sebészet:** a master és slave ugyanaz az eszköz
+
+Ha egészségügyi témáról van szó akkor úgy kell elérni, hogy a betegnek jó legyen, de ha lehet az orvosnak is legyne jobb
+
+# Vizsgakérdések
+- szegmentálási lehhetőségek: neurális hálók/képfeldolgozás
+- mi a davinci sebészeti robotrendszer?
+  - távsebészeti eszköz
+  - mester-szolga oldal
+  - minimál invazív
+    - kevsebb kórházi idő
+    - gyorsabb gyógyulás
+    - nehezebb a sebésznek
+  - 3D kamerakép
+  - könnyű kezelhetőség  
+  - nagyít
+  - kézremegés szűrés
+  - 5000-s nagyságrend
+- képalkotások
+- neurálsi hálók
+  - rajzolj le egy mesterséges neuront
+- kép által vezettt sebészet (image guided surgery)
+  - optikai/elektormágneses tracking 
+- assesment
 
 
 
